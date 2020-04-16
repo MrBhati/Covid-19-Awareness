@@ -1,0 +1,4 @@
+#Tue Apr 07 20:09:09 IST 2020
+base.0=/Volumes/Mr Bhati/Flutter/demoapp/build/app/intermediates/transforms/r8/release/0/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

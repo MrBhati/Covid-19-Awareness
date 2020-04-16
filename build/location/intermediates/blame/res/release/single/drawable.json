@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "/Volumes/Mr Bhati/Flutter/demoapp/build/location/intermediates/res/merged/release/drawable/common_google_signin_btn_text_dark.xml",
+        "source": "/Users/mrbhati/.gradle/caches/transforms-2/files-2.1/48bcbf3dc51a4f9ae8ed752622e2ae89/jetified-play-services-base-16.0.1/res/drawable/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/Volumes/Mr Bhati/Flutter/demoapp/build/location/intermediates/res/merged/release/drawable/notification_tile_bg.xml",
+        "source": "/Users/mrbhati/.gradle/caches/transforms-2/files-2.1/0a271e99b6771ad4a84318244d532fb7/core-1.0.0/res/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "/Volumes/Mr Bhati/Flutter/demoapp/build/location/intermediates/res/merged/release/drawable/common_google_signin_btn_text_light_focused.xml",
+        "source": "/Users/mrbhati/.gradle/caches/transforms-2/files-2.1/48bcbf3dc51a4f9ae8ed752622e2ae89/jetified-play-services-base-16.0.1/res/drawable/common_google_signin_btn_text_light_focused.xml"
+    },
+    {
+        "merged": "/Volumes/Mr Bhati/Flutter/demoapp/build/location/intermediates/res/merged/release/drawable/common_google_signin_btn_text_light_normal.xml",
+        "source": "/Users/mrbhati/.gradle/caches/transforms-2/files-2.1/48bcbf3dc51a4f9ae8ed752622e2ae89/jetified-play-services-base-16.0.1/res/drawable/common_google_signin_btn_text_light_normal.xml"
+    },
+    {
+        "merged": "/Volumes/Mr Bhati/Flutter/demoapp/build/location/intermediates/res/merged/release/drawable/common_google_signin_btn_icon_light_focused.xml",
+        "source": "/Users/mrbhati/.gradle/caches/transforms-2/files-2.1/48bcbf3dc51a4f9ae8ed752622e2ae89/jetified-play-services-base-16.0.1/res/drawable/common_google_signin_btn_icon_light_focused.xml"
+    },
+    {
+        "merged": "/Volumes/Mr Bhati/Flutter/demoapp/build/location/intermediates/res/merged/release/drawable/common_google_signin_btn_icon_dark.xml",
+        "source": "/Users/mrbhati/.gradle/caches/transforms-2/files-2.1/48bcbf3dc51a4f9ae8ed752622e2ae89/jetified-play-services-base-16.0.1/res/drawable/common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "/Volumes/Mr Bhati/Flutter/demoapp/build/location/intermediates/res/merged/release/drawable/common_google_signin_btn_text_dark_focused.xml",
+        "source": "/Users/mrbhati/.gradle/caches/transforms-2/files-2.1/48bcbf3dc51a4f9ae8ed752622e2ae89/jetified-play-services-base-16.0.1/res/drawable/common_google_signin_btn_text_dark_focused.xml"
+    },
+    {
+        "merged": "/Volumes/Mr Bhati/Flutter/demoapp/build/location/intermediates/res/merged/release/drawable/common_google_signin_btn_text_dark_normal.xml",
+        "source": "/Users/mrbhati/.gradle/caches/transforms-2/files-2.1/48bcbf3dc51a4f9ae8ed752622e2ae89/jetified-play-services-base-16.0.1/res/drawable/common_google_signin_btn_text_dark_normal.xml"
+    },
+    {
+        "merged": "/Volumes/Mr Bhati/Flutter/demoapp/build/location/intermediates/res/merged/release/drawable/common_google_signin_btn_icon_disabled.xml",
+        "source": "/Users/mrbhati/.gradle/caches/transforms-2/files-2.1/48bcbf3dc51a4f9ae8ed752622e2ae89/jetified-play-services-base-16.0.1/res/drawable/common_google_signin_btn_icon_disabled.xml"
+    },
+    {
+        "merged": "/Volumes/Mr Bhati/Flutter/demoapp/build/location/intermediates/res/merged/release/drawable/common_google_signin_btn_text_light.xml",
+        "source": "/Users/mrbhati/.gradle/caches/transforms-2/files-2.1/48bcbf3dc51a4f9ae8ed752622e2ae89/jetified-play-services-base-16.0.1/res/drawable/common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/Volumes/Mr Bhati/Flutter/demoapp/build/location/intermediates/res/merged/release/drawable/notification_bg.xml",
+        "source": "/Users/mrbhati/.gradle/caches/transforms-2/files-2.1/0a271e99b6771ad4a84318244d532fb7/core-1.0.0/res/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "/Volumes/Mr Bhati/Flutter/demoapp/build/location/intermediates/res/merged/release/drawable/common_google_signin_btn_icon_dark_normal.xml",
+        "source": "/Users/mrbhati/.gradle/caches/transforms-2/files-2.1/48bcbf3dc51a4f9ae8ed752622e2ae89/jetified-play-services-base-16.0.1/res/drawable/common_google_signin_btn_icon_dark_normal.xml"
+    },
+    {
+        "merged": "/Volumes/Mr Bhati/Flutter/demoapp/build/location/intermediates/res/merged/release/drawable/common_google_signin_btn_icon_light.xml",
+        "source": "/Users/mrbhati/.gradle/caches/transforms-2/files-2.1/48bcbf3dc51a4f9ae8ed752622e2ae89/jetified-play-services-base-16.0.1/res/drawable/common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "/Volumes/Mr Bhati/Flutter/demoapp/build/location/intermediates/res/merged/release/drawable/notification_icon_background.xml",
+        "source": "/Users/mrbhati/.gradle/caches/transforms-2/files-2.1/0a271e99b6771ad4a84318244d532fb7/core-1.0.0/res/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "/Volumes/Mr Bhati/Flutter/demoapp/build/location/intermediates/res/merged/release/drawable/notification_bg_low.xml",
+        "source": "/Users/mrbhati/.gradle/caches/transforms-2/files-2.1/0a271e99b6771ad4a84318244d532fb7/core-1.0.0/res/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "/Volumes/Mr Bhati/Flutter/demoapp/build/location/intermediates/res/merged/release/drawable/common_google_signin_btn_icon_light_normal.xml",
+        "source": "/Users/mrbhati/.gradle/caches/transforms-2/files-2.1/48bcbf3dc51a4f9ae8ed752622e2ae89/jetified-play-services-base-16.0.1/res/drawable/common_google_signin_btn_icon_light_normal.xml"
+    },
+    {
+        "merged": "/Volumes/Mr Bhati/Flutter/demoapp/build/location/intermediates/res/merged/release/drawable/common_google_signin_btn_icon_dark_focused.xml",
+        "source": "/Users/mrbhati/.gradle/caches/transforms-2/files-2.1/48bcbf3dc51a4f9ae8ed752622e2ae89/jetified-play-services-base-16.0.1/res/drawable/common_google_signin_btn_icon_dark_focused.xml"
+    },
+    {
+        "merged": "/Volumes/Mr Bhati/Flutter/demoapp/build/location/intermediates/res/merged/release/drawable/common_google_signin_btn_text_disabled.xml",
+        "source": "/Users/mrbhati/.gradle/caches/transforms-2/files-2.1/48bcbf3dc51a4f9ae8ed752622e2ae89/jetified-play-services-base-16.0.1/res/drawable/common_google_signin_btn_text_disabled.xml"
+    }
+]

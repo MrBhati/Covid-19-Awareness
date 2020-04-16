@@ -1,0 +1,97 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.mrbhati.healthawareness"
+4    android:versionCode="1"
+5    android:versionName="1.0.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="16"
+8-->/Volumes/Mr Bhati/Flutter/demoapp/android/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="28" />
+9-->/Volumes/Mr Bhati/Flutter/demoapp/android/app/src/main/AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+11-->/Volumes/Mr Bhati/Flutter/demoapp/android/app/src/main/AndroidManifest.xml:3:5-79
+11-->/Volumes/Mr Bhati/Flutter/demoapp/android/app/src/main/AndroidManifest.xml:3:22-76
+12    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+12-->/Volumes/Mr Bhati/Flutter/demoapp/android/app/src/main/AndroidManifest.xml:4:5-81
+12-->/Volumes/Mr Bhati/Flutter/demoapp/android/app/src/main/AndroidManifest.xml:4:22-78
+13    <!--
+14     io.flutter.app.FlutterApplication is an android.app.Application that
+15         calls FlutterMain.startInitialization(this); in its onCreate method.
+16         In most cases you can leave this as-is, but you if you want to provide
+17         additional functionality it is fine to subclass or reimplement
+18         FlutterApplication and put your custom class here.
+19    -->
+20    <application
+20-->/Volumes/Mr Bhati/Flutter/demoapp/android/app/src/main/AndroidManifest.xml:10:5-31:19
+21        android:name="io.flutter.app.FlutterApplication"
+21-->/Volumes/Mr Bhati/Flutter/demoapp/android/app/src/main/AndroidManifest.xml:11:9-57
+22        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+22-->[androidx.core:core:1.1.0] /Users/mrbhati/.gradle/caches/transforms-2/files-2.1/a528b13ac93e64cafa3d0480e2c93207/core-1.1.0/AndroidManifest.xml:24:18-86
+23        android:icon="@mipmap/ic_launcher"
+23-->/Volumes/Mr Bhati/Flutter/demoapp/android/app/src/main/AndroidManifest.xml:13:9-43
+24        android:label="Health Awareness Guide" >
+24-->/Volumes/Mr Bhati/Flutter/demoapp/android/app/src/main/AndroidManifest.xml:12:9-47
+25        <activity
+25-->/Volumes/Mr Bhati/Flutter/demoapp/android/app/src/main/AndroidManifest.xml:14:9-25:20
+26            android:name="com.example.demoapp.MainActivity"
+26-->/Volumes/Mr Bhati/Flutter/demoapp/android/app/src/main/AndroidManifest.xml:15:13-41
+27            android:configChanges="orientation|keyboardHidden|keyboard|screenSize|smallestScreenSize|locale|layoutDirection|fontScale|screenLayout|density|uiMode"
+27-->/Volumes/Mr Bhati/Flutter/demoapp/android/app/src/main/AndroidManifest.xml:18:13-163
+28            android:hardwareAccelerated="true"
+28-->/Volumes/Mr Bhati/Flutter/demoapp/android/app/src/main/AndroidManifest.xml:19:13-47
+29            android:launchMode="singleTop"
+29-->/Volumes/Mr Bhati/Flutter/demoapp/android/app/src/main/AndroidManifest.xml:16:13-43
+30            android:theme="@style/LaunchTheme"
+30-->/Volumes/Mr Bhati/Flutter/demoapp/android/app/src/main/AndroidManifest.xml:17:13-47
+31            android:windowSoftInputMode="adjustResize" >
+31-->/Volumes/Mr Bhati/Flutter/demoapp/android/app/src/main/AndroidManifest.xml:20:13-55
+32            <intent-filter>
+32-->/Volumes/Mr Bhati/Flutter/demoapp/android/app/src/main/AndroidManifest.xml:21:13-24:29
+33                <action android:name="android.intent.action.MAIN" />
+33-->/Volumes/Mr Bhati/Flutter/demoapp/android/app/src/main/AndroidManifest.xml:22:17-68
+33-->/Volumes/Mr Bhati/Flutter/demoapp/android/app/src/main/AndroidManifest.xml:22:25-66
+34
+35                <category android:name="android.intent.category.LAUNCHER" />
+35-->/Volumes/Mr Bhati/Flutter/demoapp/android/app/src/main/AndroidManifest.xml:23:17-76
+35-->/Volumes/Mr Bhati/Flutter/demoapp/android/app/src/main/AndroidManifest.xml:23:27-74
+36            </intent-filter>
+37        </activity>
+38        <!--
+39             Don't delete the meta-data below.
+40             This is used by the Flutter tool to generate GeneratedPluginRegistrant.java
+41        -->
+42        <meta-data
+42-->/Volumes/Mr Bhati/Flutter/demoapp/android/app/src/main/AndroidManifest.xml:28:9-30:33
+43            android:name="flutterEmbedding"
+43-->/Volumes/Mr Bhati/Flutter/demoapp/android/app/src/main/AndroidManifest.xml:29:13-44
+44            android:value="2" />
+44-->/Volumes/Mr Bhati/Flutter/demoapp/android/app/src/main/AndroidManifest.xml:30:13-30
+45
+46        <activity
+46-->[:url_launcher] /Volumes/Mr Bhati/Flutter/demoapp/build/url_launcher/intermediates/library_manifest/release/AndroidManifest.xml:8:9-11:74
+47            android:name="io.flutter.plugins.urllauncher.WebViewActivity"
+47-->[:url_launcher] /Volumes/Mr Bhati/Flutter/demoapp/build/url_launcher/intermediates/library_manifest/release/AndroidManifest.xml:9:13-74
+48            android:exported="false"
+48-->[:url_launcher] /Volumes/Mr Bhati/Flutter/demoapp/build/url_launcher/intermediates/library_manifest/release/AndroidManifest.xml:10:13-37
+49            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" />
+49-->[:url_launcher] /Volumes/Mr Bhati/Flutter/demoapp/build/url_launcher/intermediates/library_manifest/release/AndroidManifest.xml:11:13-71
+50        <activity
+50-->[com.google.android.gms:play-services-base:17.0.0] /Users/mrbhati/.gradle/caches/transforms-2/files-2.1/5ac9ad6f13ea0190a3570ea7a43d9f59/play-services-base-17.0.0/AndroidManifest.xml:23:9-26:75
+51            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+51-->[com.google.android.gms:play-services-base:17.0.0] /Users/mrbhati/.gradle/caches/transforms-2/files-2.1/5ac9ad6f13ea0190a3570ea7a43d9f59/play-services-base-17.0.0/AndroidManifest.xml:24:13-79
+52            android:exported="false"
+52-->[com.google.android.gms:play-services-base:17.0.0] /Users/mrbhati/.gradle/caches/transforms-2/files-2.1/5ac9ad6f13ea0190a3570ea7a43d9f59/play-services-base-17.0.0/AndroidManifest.xml:25:13-37
+53            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+53-->[com.google.android.gms:play-services-base:17.0.0] /Users/mrbhati/.gradle/caches/transforms-2/files-2.1/5ac9ad6f13ea0190a3570ea7a43d9f59/play-services-base-17.0.0/AndroidManifest.xml:26:13-72
+54
+55        <meta-data
+55-->[com.google.android.gms:play-services-basement:17.0.0] /Users/mrbhati/.gradle/caches/transforms-2/files-2.1/120b37bb01eeeb469c8f5bdd96a37b83/jetified-play-services-basement-17.0.0/AndroidManifest.xml:23:9-25:69
+56            android:name="com.google.android.gms.version"
+56-->[com.google.android.gms:play-services-basement:17.0.0] /Users/mrbhati/.gradle/caches/transforms-2/files-2.1/120b37bb01eeeb469c8f5bdd96a37b83/jetified-play-services-basement-17.0.0/AndroidManifest.xml:24:13-58
+57            android:value="@integer/google_play_services_version" />
+57-->[com.google.android.gms:play-services-basement:17.0.0] /Users/mrbhati/.gradle/caches/transforms-2/files-2.1/120b37bb01eeeb469c8f5bdd96a37b83/jetified-play-services-basement-17.0.0/AndroidManifest.xml:25:13-66
+58    </application>
+59
+60</manifest>
